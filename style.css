@@ -3,9 +3,9 @@ body {
   background-color: azure;
 }
 
-li>a {
+/* li>a {
   color: white;
-}
+} */
 
 .about-social li {
   display: inline-block;

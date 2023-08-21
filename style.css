@@ -84,6 +84,9 @@ ul {
 
 @media screen and (max-width: 768px) {
 
-
+.rectangle {
+    width: 30em;
+    height: 15em;
+  }
 
 }

@@ -35,6 +35,11 @@ body {
   margin-left: 1vw;
 }
 
+.rectangle {
+  width: 36vw;
+  height: 36vh;
+}
+
 .text-center {
   text-align: center;
 }
@@ -80,5 +85,5 @@ ul {
 @media screen and (max-width: 768px) {
 
 
-  
+
 }
